@@ -12,4 +12,11 @@ git checkout <branch_name>          # Switch to branch
 git checkout -b <branch_name>       # Create + switch
 git merge <branch_name>             # Merge a branch into current
 git branch -d <branch_name>         # Delete branch
+git remote add origin <url>         # Add remote repository
+git remote -v                       # View remotes
+git push -u origin main             # Push first time
+git push                            # Push changes
+git pull                            # Fetch + merge from remote
+git fetch                           # Fetch only (no merge)
+git clone <url>                     # Clone remote repo
 
