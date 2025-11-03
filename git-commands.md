@@ -2,8 +2,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 git config --list        # View git config
 git commit -m "message"             # Commit staged changes
-git commit -am "message"            # Add & commit tracked files in one go
-git log                             # View commit history
+git commit -am "message"            # Add & commit tracked files 
 git log --oneline                   # Short log
 git show <commit_id>                # Show details of a commit
 git branch                         # List all branches
@@ -19,4 +18,4 @@ git push                            # Push changes
 git pull                            # Fetch + merge from remote
 git fetch                           # Fetch only (no merge)
 git clone <url>                     # Clone remote repo
-
+git log                             # View commit history
