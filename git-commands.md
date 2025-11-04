@@ -16,6 +16,33 @@ git remote -v                       # View remotes
 git push -u origin main             # Push first time
 git push                            # Push changes
 git pull                            # Fetch + merge from remote
-git fetch                           # Fetch only (no merge)
 git clone <url>                     # Clone remote repo
-git log                             # View commit history
+git log                             # View commit history of dev
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+git-commands.md[+] [unix] (12:18 03/11/2025)                                                                                                                                            21,1 All
+-- INSERT --
+
