@@ -17,7 +17,7 @@ git push -u origin main             # Push first time
 git push                            # Push changes
 git pull                            # Fetch + merge from remote
 git clone <url>                     # Clone remote repo
-git log                             # View commit history
+git log                             # View commit histories
 ~
 ~
 ~
