@@ -1,4 +1,4 @@
-| Command  | Description                    | Example                        |
+| Command  | Description                    | Example                         |
 | -------  | ------------------------------ | ------------------------------ |
 |   pwd    | Show current working directory |  /home/mridul                  |
 |   ls     | List files & folders           |  ls -l, ls -a                  |
