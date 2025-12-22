@@ -9,4 +9,4 @@
 |   cp     | Copy file/folder               |  cp file.txt /tmp/              |
 |   mv     | Move or rename                 |  mv old.txt new.txt             |
 |   cat    | Show file content              |  cat /etc/hostname              |
-|   touch  | Create empty file              |  touch notes.txt                |
+|   touch  | Create empty file              |  touch notes.txt               |
