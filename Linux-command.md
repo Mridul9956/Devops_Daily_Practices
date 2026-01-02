@@ -1,7 +1,7 @@
 | Command  | Description                    | Example                         |
 | -------  | ------------------------------ | ------------------------------  |
 |   pwd    | Show current working directory |  /home/mridul                   |
-|   ls     | List files & folders           |  ls -l, ls -a                  |
+|   ls     | List files & folders           |  ls -l, ls -a                   |
 |   cd     | Change directory               |  cd /etc                       |
 |   mkdir  | Create new directory           |  mkdir devops                  |
 |   rmdir  | Remove empty directory         |  rmdir oldlogs                 |
